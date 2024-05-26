@@ -1,3 +1,5 @@
+# Made by ChatGPT
+
 import time
 import random
 
